@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/grass.jpg</file>
+        <file>image/bathroom.jpg</file>
+        <file>image/frame.jpg</file>
+        <file>image/white.png</file>
+        <file>image/textbox.png</file>
+        <file>image/medicine.png</file>
+        <file>image/toy.jpg</file>
+        <file>image/box.png</file>
+        <file>image/shampoo.png</file>
+        <file>image/kfc.png</file>
+        <file>image/button.png</file>
+        <file>image/plane.png</file>
+        <file>image/soap.png</file>
+        <file>image/bear.png</file>
+        <file>image/coin.png</file>
+        <file>image/goods.png</file>
+        <file>image/txetb.png</file>
+        <file>image/txeta.png</file>
+        <file>image/tombstone.png</file>
+        <file>image/death.jpg</file>
+    </qresource>
+</RCC>

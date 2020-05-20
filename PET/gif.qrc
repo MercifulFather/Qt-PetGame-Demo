@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/apple.gif</file>
+        <file>image/ball.gif</file>
+        <file>image/bathroom.gif</file>
+        <file>image/bbq.gif</file>
+        <file>image/beer.gif</file>
+        <file>image/cat.gif</file>
+        <file>image/dog.gif</file>
+        <file>image/hamburger.gif</file>
+        <file>image/hamster.gif</file>
+        <file>image/home.gif</file>
+        <file>image/home2.gif</file>
+        <file>image/homein.gif</file>
+        <file>image/hospital.gif</file>
+        <file>image/icecream.gif</file>
+        <file>image/instruction.gif</file>
+        <file>image/park.gif</file>
+        <file>image/pig.gif</file>
+        <file>image/pool.gif</file>
+        <file>image/rain.gif</file>
+        <file>image/restaurant.gif</file>
+        <file>image/river.gif</file>
+        <file>image/shop.gif</file>
+        <file>image/station.gif</file>
+        <file>image/work.gif</file>
+    </qresource>
+</RCC>
